@@ -39,7 +39,7 @@ For the Teensy 4.1, use the following pins:
 - **HOLD#/RESET#**: Pin 15
 
 # Usage
-This is designed to work just like `SPIway` (see the [SPIway README](https://github.com/hjudges/NORway/blob/master/SPIway_README.txt)). After compiling and deploying the code to your Teensy, connect your PC to the Teensy over USB. You can check **Windows Device Manager > Ports (COM & LPT)* to find which COM port is assigned to the Teensy.
+This is designed to work just like `SPIway` (see the [SPIway README](https://github.com/hjudges/NORway/blob/master/SPIway_README.txt)). After compiling and deploying the code to your Teensy, connect your PC to the Teensy over USB. You can check *Windows Device Manager > Ports (COM & LPT)* to find which COM port is assigned to the Teensy.
 
 First, confirm that your Teensy can read from the NOR chip and recognizes it:
 
