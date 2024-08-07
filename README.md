@@ -25,10 +25,10 @@ I am not distributing a `.hex` file because I haven't added a way to adjust the 
 
 Follow [this guide](https://www.pjrc.com/teensy/td_download.html) to install the Arduino IDE and add the Teensy boards to the board manager.
 
-To compile the code, simply open `TeensySPIFlasher.ino` in the Arduino IDE and click "Verify". To deploy the code, you can click the "Upload" button from within the Arduino IDE, or you can open the build folder and deploy the `.hex` file manually.
+To compile the code, simply open `TeensySPIFlasher/TeensySPIFlasher.ino` in the Arduino IDE and click "Verify". To deploy the code, you can click the "Upload" button from within the Arduino IDE, or you can open the build folder and deploy the `.hex` file manually.
 
 ## Teensy Hardware Setup
-Follow the [MODDED HARDWARE guide](https://www.youtube.com/watch?v=JxeSP1PJtEs) for installing a Teensy to quickly revert the PS4's hardware.
+Follow the [MODDED WARFARE guide](https://www.youtube.com/watch?v=JxeSP1PJtEs) for installing a Teensy to quickly revert the PS4's hardware.
 
 For the Teensy 4.1, use the following pins:
 - **CS#**: Pin 10
